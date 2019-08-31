@@ -49,3 +49,5 @@ set-option -g automatic-rename-format '#{b:pane_current_path}'
 
 # Initialize TMUX plugin manager (KEEP THIS LINE AT THE VERY BOTTOM OF .TMUX.CONF)
 run '~/.tmux/plugins/tpm/tpm'
+
+# vim: ft=tmux

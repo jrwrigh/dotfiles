@@ -117,7 +117,7 @@ export EDITOR="$VISUAL"
 
 if [ $(cat $HOME/.computerID) = "PalmettoClusterSSH" ]; then
     export common="/common/miller/jrwrigh"
-    PATH=/home/jrwrigh/local/bin:$PATH:$HOME/bin:/home/jrwrigh/bin/neovim/squashfs-root/usr/bin
+    PATH=/home/jrwrigh/.local/bin:/home/jrwrigh/local/bin:$PATH:$HOME/bin:/home/jrwrigh/bin/neovim/squashfs-root/usr/bin
     PATH=$PATH:/home/jrwrigh/.local/bin:/bin
     export PATH
     module load python/3.4
