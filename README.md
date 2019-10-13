@@ -1,3 +1,8 @@
+# Deprecated
+This is my old dotfiles repository, which has been replaced by a reorg/refactor in [dotfile2.0](https://github.com/jrwrigh/dotfiles2.0).
+
+---
+
 Note that all files must have a link to them from their correct locations.
 
 On Linux, this is done by:
